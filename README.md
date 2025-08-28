@@ -5,5 +5,6 @@ Se busca pronosticar los precios de stocks utilizando diferentes simulaciones ta
 Con el fin de responder a las preguntas:
 - ¿Cuál es el rango de precios que podría tener el stock en cierto tiempo?
 - ¿Qué tan probable es que suba mucho o que caiga?
-- ¿Cuál es el precio promedio esperado?
+- ¿Cuál es el precio promedio esperado?<br/>
+
 Para asi tomar decisiones a partir de nuestros modelos 
